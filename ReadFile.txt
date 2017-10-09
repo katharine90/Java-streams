@@ -1,0 +1,3 @@
+ByteArrayinputstream is an implementation of an inputstream that uses a byte array.  
+Hello world.
+One apple a day keeps the doctor away. 
