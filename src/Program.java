@@ -33,7 +33,6 @@ public class Program {
 			file2.write(buf);
 		}
 		
-		
 		// Read a file:
 		BufferedReader reader = new BufferedReader(new InputStreamReader(
 				new FileInputStream(secondfile)));
