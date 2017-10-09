@@ -11,7 +11,7 @@ import java.net.URL;
 
 public class Program {
 	
-	// About git commits
+	// About git commits: https://readwrite.com/2013/10/02/github-for-beginners-part-2/
 
 	public static void main(String[] args) throws IOException {
 		File file = new File("file.txt");
